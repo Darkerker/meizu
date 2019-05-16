@@ -7,8 +7,10 @@ var menu = document.getElementsByClassName('menu');
 var bannerNav = document.getElementsByClassName('banner-nav');
 var h1 = document.getElementsByTagName('h1');
 var ul = document.getElementsByTagName('ul');
+var user = document.getElementsByClassName('nav-user');
 var indexA = 1;
 var zindex = 0;
+
 
 pagination[0].children[0].style.width = 10 + 'px';
 pagination[0].children[0].style.height = 10 + 'px';
